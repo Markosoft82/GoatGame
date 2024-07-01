@@ -1,0 +1,71 @@
+Name,Location,Country,GoatCount,Length,TrackType
+Thunderbolt Downs,Sydney,Australia,8,2000,2
+Outback Oasis,Melbourne,Australia,7,2500,3
+Golden Hoof Park,Brisbane,Australia,6,2200,1
+Kangaroo Run Circuit,Perth,Australia,6,1800,2
+Coral Coast Racetrack,Adelaide,Australia,9,2700,3
+Liberty Lane Raceway,New York,USA,10,2900,2
+Starlight Speedway,Los Angeles,USA,7,1800,1
+Eagle's Nest Track,Chicago,USA,6,2100,3
+Sunset Sprint Circuit,Houston,USA,8,2400,2
+Bluegrass Boulevard,Miami,USA,9,2800,1
+Royal Ascot Racecourse,London,UK,7,2300,3
+Emerald Isle Oval,Manchester,UK,8,2600,1
+London Thunder Track,Liverpool,UK,6,2900,2
+Highland Haven Racetrack,Birmingham,UK,9,2100,3
+Britannia Park,Edinburgh,UK,6,2000,1
+Eiffel Tower Turf,Paris,France,10,2400,3
+Riviera Raceway,Marseille,France,9,2700,1
+Bordeaux Bluffs Track,Lyon,France,8,2200,2
+Provence Paddock,Toulouse,France,7,2900,3
+Champagne Chase Circuit,Nice,France,6,1800,2
+Desert Mirage Racecourse,Dubai,Dubai,6,2000,3
+Arabian Oasis Track,Abu Dhabi,Dubai,9,2300,1
+Golden Sands Speedway,Sharjah,Dubai,8,2500,2
+Pearl Peninsula Circuit,Ajman,Dubai,7,2800,3
+Dubai Dreamland Park,Ras Al Khaimah,Dubai,6,2100,2
+Mount Fuji Meadows,Tokyo,Japan,10,2500,1
+Cherry Blossom Circuit,Osaka,Japan,9,2900,2
+Samurai Sprint Speedway,Nagoya,Japan,8,2200,3
+Snowflake Speedway,Sapporo,Japan,7,2700,1
+Kyoto Kamikaze Track,Kyoto,Japan,6,2000,2
+Berlin Blitz Track,Berlin,Germany,6,2600,1
+Hamburg Harbor Circuit,Hamburg,Germany,9,2000,2
+Munich Meadows,Munich,Germany,8,2800,3
+Cologne Courtyard,Cologne,Germany,7,2100,1
+Stuttgart Speedway,Stuttgart,Germany,10,2400,2
+Toronto Thunderdome,Toronto,Canada,10,2200,3
+Montreal Milestone,Montreal,Canada,8,2500,1
+Vancouver Velocity,Vancouver,Canada,6,2700,2
+Calgary Courser,Calgary,Canada,9,1800,3
+Ottawa Oval,Ottawa,Canada,7,2900,1
+Dublin Downs,Dublin,Ireland,6,2000,2
+Cork Circuit,Cork,Ireland,9,2400,3
+Galway Gallop,Galway,Ireland,7,2700,1
+Limerick Lanes,Limerick,Ireland,10,2200,2
+Belfast Blast,Belfast,Ireland,8,2900,3
+Johannesburg Jockey Junction,Johannesburg,South Africa,8,2800,1
+Cape Town Circuit,Cape Town,South Africa,7,2100,2
+Durban Dash,Durban,South Africa,10,2900,3
+Pretoria Park,Pretoria,South Africa,6,1800,1
+Port Elizabeth Pace,Port Elizabeth,South Africa,9,2200,2
+Beijing Blaze,Beijing,China,7,2500,3
+Shanghai Speedway,Shanghai,China,6,2800,1
+Great Wall Raceway,Great Wall,China,8,2100,2
+Forbidden City Circuit,Forbidden City,China,9,2000,3
+Panda Paradise,Panda Paradise,China,10,2400,1
+Rio Rodeo,Rio de Janeiro,Brazil,8,2600,3
+Sao Paulo Speedway,Sao Paulo,Brazil,9,2900,1
+Copacabana Circuit,Copacabana,Brazil,7,2200,2
+Amazonian Arena,Amazon Rainforest,Brazil,10,2400,3
+Ipanema International,Ipanema,Brazil,8,2700,1
+Wellington Wonders,Wellington,New Zealand,9,2000,2
+Auckland Aces,Auckland,New Zealand,7,2500,3
+Christchurch Circuit,Christchurch,New Zealand,8,2800,1
+Hamilton Highway,Hamilton,New Zealand,6,2100,2
+Dunedin Downs,Dunedin,New Zealand,10,2400,3
+Seoul Speedway,Seoul,South Korea,7,2900,1
+Busan Beach Circuit,Busan,South Korea,8,2200,2
+Daegu Dash,Daegu,South Korea,9,2800,3
+Incheon International,Incheon,South Korea,10,2100,1
+Gyeongju Grand Prix,Gyeongju,South Korea,6,2500,2
